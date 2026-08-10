@@ -1,5 +1,5 @@
 # YZKD-WEB
-Yuzukodo website.
+**Yuzukodo website.**
 
 ## Acknowledgements
 #### **Fonts**
