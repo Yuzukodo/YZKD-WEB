@@ -1,9 +1,3 @@
-@font-face {
-  font-family: "Jura";
-  src: url("/assets/fonts/jura/Jura-Light.ttf");
-  font-weight: 400;
-}
-
 ::selection {
   background-color: #c68aff69;
 }
